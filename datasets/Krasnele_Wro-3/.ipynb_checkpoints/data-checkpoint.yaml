@@ -1,0 +1,47 @@
+names:
+- Automatek
+- Babelek_Chlaptus
+- Bawarka
+- Czimnejek
+- Demokracja
+- Dialogomir
+- Dziupelka
+- Gaugan
+- Giermek_Grun-Waldek
+- Gluchak
+- Golebnik
+- Grajek_i_Meloman
+- Koronus
+- Krasnal_Millenniowski
+- Krasnal_Teleclaw
+- Ksiegarka
+- Lappek
+- Leprykonus
+- Leszko_z_Wroclawia
+- Lunetyk
+- Obiezysmak
+- Ogorzalek_i_Opilek
+- Orzezwiacz
+- Parasolniki
+- Pieroznik
+- Pozarki
+- Rogalik
+- Serdecznis
+- Slepak
+- Spioch
+- Syzyfki
+- Trabibrzuch
+- Trendus
+- W-Skers
+- Wiezien
+- WrocLovek
+nc: 36
+roboflow:
+  license: CC BY 4.0
+  project: krasnele_wro-g63lz
+  url: https://universe.roboflow.com/krasnalewroclawskie-envp3/krasnele_wro-g63lz/dataset/3
+  version: 3
+  workspace: krasnalewroclawskie-envp3
+test: /home/zuza/zuza/studia/projekt_krasnale/Wroclaws_Draws_Recognition/datasets/Krasnele_Wro-3/test/images
+train: /home/zuza/zuza/studia/projekt_krasnale/Wroclaws_Draws_Recognition/datasets/Krasnele_Wro-3/train/images
+val: /home/zuza/zuza/studia/projekt_krasnale/Wroclaws_Draws_Recognition/datasets/Krasnele_Wro-3/valid/images
